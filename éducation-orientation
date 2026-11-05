@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Keeva Éducation, projet d'orientation scolaire et professionnelle.">
+  <title>Keeva Éducation — Orientation</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f7fb;
+      color: #1e293b;
+      line-height: 1.7;
+    }
+    header {
+      background: #142c55;
+      color: white;
+      padding: 80px 24px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 20px;
+      max-width: 720px;
+      margin: auto;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 35px 24px;
+    }
+    section {
+      background: white;
+      border-radius: 14px;
+      padding: 30px;
+      margin: 20px 0;
+      box-shadow: 0 3px 16px #0000000a;
+    }
+    h2 { color: #142c55; }
+    .status {
+      color: #315b94;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #64748b;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>KEEVA ÉDUCATION</h1>
+    <p>Un compagnon intelligent pour explorer son avenir.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Notre mission</h2>
+      <p>
+        Keeva Éducation est un projet d'assistant
+        conversationnel fondé sur l'intelligence
+        artificielle, dédié à l'orientation scolaire,
+        universitaire et professionnelle.
+      </p>
+      <p>
+        Son objectif est d'aider les jeunes et les adultes
+        à découvrir leurs intérêts, explorer les métiers,
+        comprendre les formations et construire leur
+        parcours, sans imposer de choix.
+      </p>
+    </section>
+
+    <section>
+      <h2>Comment fonctionne Keeva ?</h2>
+      <p>
+        Le projet prévoit un accompagnement personnalisé
+        reposant sur le dialogue, l'exploration des
+        aspirations et la découverte progressive des
+        possibilités d'orientation.
+      </p>
+      <p>
+        Les recommandations seront présentées comme des
+        pistes à explorer, et non comme des décisions
+        automatiques ou définitives.
+      </p>
+    </section>
+
+    <section>
+      <h2>Données publiques et métiers</h2>
+      <p>
+        Keeva Éducation prévoit d'intégrer des données
+        officielles sur les métiers, les compétences,
+        les formations et les perspectives d'emploi.
+      </p>
+      <p>
+        Les API de France Travail, notamment les
+        référentiels métiers et compétences, sont
+        envisagées pour enrichir les informations
+        proposées aux utilisateurs.
+      </p>
+      <p>
+        Cette intégration est en cours de préparation
+        et dépend des autorisations d'accès aux API.
+      </p>
+    </section>
+
+    <section>
+      <h2>Respect des personnes</h2>
+      <p>
+        Keeva Éducation est conçu autour de principes
+        de confidentialité, de consentement, de
+        transparence et de liberté de choix.
+      </p>
+    </section>
+
+    <section>
+      <h2>État du projet</h2>
+      <p class="status">Projet en développement</p>
+      <p>
+        Cette page présente le projet Keeva Éducation.
+        Le service d'accompagnement n'est pas encore
+        accessible au public.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    © 2026 Keeva Éducation — Projet en développement.
+  </footer>
+</body>
+</html>
